@@ -1,0 +1,9 @@
+# Chart-Maker
+This is a simple chart maker written in python. 
+
+
+It has the option to choose between pie charts and bar graphs at the moment. 
+
+It uses tkinter to allow the user to enter the values of the chart they wish to make. 
+
+It then uses matplotlib to display a chart based on the users input. 
